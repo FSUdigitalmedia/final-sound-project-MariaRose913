@@ -1,5 +1,5 @@
-# Final Sound Project 
-## The Spot
+# The Spot
+## Final Sound Project 
 
 
 ![Screenshot of VCV Rack Patch](screenshot.png)
